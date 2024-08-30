@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-First install all dependencies using 
+First install all dependencies using
 `npm install`
 
 ## Available Scripts
@@ -10,6 +10,8 @@ First install all dependencies using
 In the project directory:
 
 ### `npm start` and `npm run server`
+
+server must be started in order to save and load tasks
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -22,6 +24,6 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-
 ### `npm run build`
+
 Creates Build for production
